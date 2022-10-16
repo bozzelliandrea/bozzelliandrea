@@ -5,3 +5,7 @@
 - 👯 I’m looking to collaborate on javascript or java open source projects
 
 [![@boz's Holopin board](https://holopin.me/boz)](https://holopin.io/@boz)
+
+#### Coding Platforms
+
+![https://www.codewars.com/users/bozzaccio](https://www.codewars.com/users/bozzaccio/badges/micro)
