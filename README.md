@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Boz, a Software Engineer
 
+- 🧠 I'm collaborating to [Illustrated Machine Learning](https://github.com/illustrated-machine-learning) platform, a new way to learn machine learning and computer vision
 - 🔭 I’m currently working on open source and [diner](https://github.com/bozzelliandrea/diner) project
-- 🌱 I’m currently learning algorithms and data structure.... maybe...
+- 🌱 I’m currently learning algorithms and data structure
 - 👯 I’m looking to collaborate on javascript or java open source projects
 
 ##### Check my profile in these Coding Platforms
