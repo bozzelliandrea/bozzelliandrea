@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Boz, a Software Engineer
 
+- 🖥️ 8h days backend software engineer with java ☕ and spring 🥬
 - 🧠 I'm collaborating to [Illustrated Machine Learning](https://github.com/illustrated-machine-learning) platform, a new way to study machine learning and computer vision
-- 🔭 I’m currently working on open source and [diner](https://github.com/bozzelliandrea/diner) project
+- 🔭 In my free time i’m currently working on two open source side projects [shelter](https://github.com/bozzelliandrea/shelter) and [diner](https://github.com/bozzelliandrea/diner) project
 - 🌱 I’m currently learning algorithms and data structure
 - 👯 I’m looking to collaborate on javascript or java open source projects
 
